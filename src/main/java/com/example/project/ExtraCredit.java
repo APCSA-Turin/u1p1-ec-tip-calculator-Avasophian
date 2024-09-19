@@ -42,9 +42,9 @@ public class ExtraCredit
         
                                    
     public static void main(String[] args) {
-        int people = 3; 
+        int people = 6; 
         int percent = 25;
-        double cost = 25.99; 
+        double cost = 52.27; 
         String items = ""; 
 
         Scanner scan = new Scanner(System.in);
