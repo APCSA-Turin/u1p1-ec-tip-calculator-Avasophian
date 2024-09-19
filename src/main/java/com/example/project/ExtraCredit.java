@@ -1,6 +1,4 @@
 package com.example.project;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 // I learned how to round with https://mkyong.com/java/how-to-round-double-float-value-to-2-decimal-points-in-java/
